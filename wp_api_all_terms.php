@@ -26,7 +26,7 @@ class all_categories
 
     public function get_all_categories($object)
     {
-        $return = get_terms('category');
+        $return = get_terms('category', 'get=all');
         return new WP_REST_Response($return, 200);
     }
 }
