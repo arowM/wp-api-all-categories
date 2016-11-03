@@ -4,7 +4,7 @@
 Plugin Name:  WP REST API All Categories
 Plugin URI:   https://github.com/arowM/wp-api-all-categories
 Description:  This plugin adds an endpoint for all categories
-Version:      1.0
+Version:      1.0.1
 Author:       Kadzuya Okamoto
 Author URI:   https://github.com/arowM
 License:      MIT License
